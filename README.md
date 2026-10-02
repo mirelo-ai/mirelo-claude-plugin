@@ -1,3 +1,5 @@
+> Archived: the maintained Mirelo plugins for Cursor and Claude now live in [mirelo-ai/mirelo-cursor-plugin](https://github.com/mirelo-ai/mirelo-cursor-plugin). This repository is retained for history.
+
 # Mirelo for Claude
 
 Generate sound effects, foley, and ambience from text or video, edit existing audio, and transcribe recordings into MIDI and notation. This plugin pairs Mirelo's hosted MCP connector with two workflow skills: sound design and Audio-to-MIDI.
